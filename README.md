@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# end-end-medical
-=======
+
 
 # end-end-medical
 
